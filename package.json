@@ -1,0 +1,27 @@
+{
+  "name": "alphanumeric-to-number",
+  "version": "1.0.3",
+  "description": "Converts alphanumeric codes into numbers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/derekdinan/alphanumeric-to-number.git"
+  },
+  "keywords": [
+    "alphanumeric",
+    "math",
+    "maths",
+    "numbers",
+    "sequences",
+    "sequencing"
+  ],
+  "author": "Derek Dinan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/derekdinan/alphanumeric-to-number/issues"
+  },
+  "homepage": "https://github.com/derekdinan/alphanumeric-to-number#readme"
+}
