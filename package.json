@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/derekdinan/alphanumeric-to-number.git"
+    "url": "git+https://github.com/ddinan/alphanumeric-to-number.git"
   },
   "keywords": [
     "alphanumeric",
@@ -21,7 +21,7 @@
   "author": "Derek Dinan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/derekdinan/alphanumeric-to-number/issues"
+    "url": "https://github.com/ddinan/alphanumeric-to-number/issues"
   },
-  "homepage": "https://github.com/derekdinan/alphanumeric-to-number#readme"
+  "homepage": "https://github.com/ddinan/alphanumeric-to-number#readme"
 }
